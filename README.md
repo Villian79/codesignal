@@ -1,2 +1,2 @@
-# codefights
-Solutions to code challenges from www.codefights.com
+## CODESIGNAL
+Solutions to code challenges from www.codesignal.com
